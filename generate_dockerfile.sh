@@ -34,7 +34,6 @@ echo
 influx_bucket_retention=0
 
 # Ask for save location
-ls -lhaR
 echo
 echo $PWD
 echo -e "\e[1;34mWhere should the new Dockerfile be saved?\e[0m"
