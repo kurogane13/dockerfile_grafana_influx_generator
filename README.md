@@ -7,7 +7,7 @@
 - **Time-series data storage, visualization, and monitoring** in a seamless environment. 
 - It runs a **bash script** that generates a ready-to-use Dockerfile by dynamically parsing user-defined variables.
 - It **sets up all the indluxdb variables** required for set up and running.
-- The **Dockerfile** is generated, and ready to built. 
+- The **Dockerfile** is generated, and ready to build. 
 
 ## 🚀 Features
 - **Automated Dockerfile Generation** 🛠️
